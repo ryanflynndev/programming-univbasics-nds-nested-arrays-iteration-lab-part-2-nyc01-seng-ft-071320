@@ -12,7 +12,7 @@ def find_min_in_nested_arrays(src)
       end
       index += 1
     end
-    console.log(num)
+    puts(num)
     results_array << num 
     count += 1
   end
